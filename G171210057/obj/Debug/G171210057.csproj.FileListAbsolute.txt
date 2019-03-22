@@ -1,0 +1,10 @@
+C:\Users\OKAN\source\repos\G171210057\G171210057\obj\Debug\G171210057.csprojAssemblyReference.cache
+C:\Users\OKAN\source\repos\G171210057\G171210057\obj\Debug\G171210057.Form1.resources
+C:\Users\OKAN\source\repos\G171210057\G171210057\obj\Debug\G171210057.Properties.Resources.resources
+C:\Users\OKAN\source\repos\G171210057\G171210057\obj\Debug\G171210057.csproj.GenerateResource.cache
+C:\Users\OKAN\source\repos\G171210057\G171210057\obj\Debug\G171210057.csproj.CoreCompileInputs.cache
+C:\Users\OKAN\source\repos\G171210057\G171210057\bin\Debug\G171210057.exe.config
+C:\Users\OKAN\source\repos\G171210057\G171210057\bin\Debug\G171210057.exe
+C:\Users\OKAN\source\repos\G171210057\G171210057\bin\Debug\G171210057.pdb
+C:\Users\OKAN\source\repos\G171210057\G171210057\obj\Debug\G171210057.exe
+C:\Users\OKAN\source\repos\G171210057\G171210057\obj\Debug\G171210057.pdb
